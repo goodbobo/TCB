@@ -1,0 +1,86 @@
+{
+    "errno": 0,
+    "errmsg": "OK",
+    "result1": [
+        {
+            "product_id": "22622",
+            "model_name": "iPhone 6",
+            "brand_id": "2",
+            "brand_name": "苹果",
+            "price": 2599,
+            "model_id": "97",
+            "mer_id": "8",
+            "thum_img": {
+                "old": "http://p0.qhmsg.com/t010c8cd989fa3b1c8a.png",
+                "big": "http://p0.qhmsg.com/t0134087cae802f7fc1.png",
+                "mid": "http://p0.qhmsg.com/t0115dd58fd04302b3b.png",
+                "min": "http://p0.qhmsg.com/t011d83bb5729680d79.png"
+            },
+            "mer_name": ""
+        },
+        {
+            "product_id": "22621",
+            "model_name": "iPhone 6Plus",
+            "brand_id": "2",
+            "brand_name": "苹果",
+            "price": 2299,
+            "model_id": "97",
+            "mer_id": "8",
+            "thum_img": {
+                "old": "http://p0.qhmsg.com/t01042f0e1ad3db884a.png",
+                "big": "http://p0.qhmsg.com/t01f5575883be765e32.png",
+                "mid": "http://p0.qhmsg.com/t01ca68a181942f676d.png",
+                "min": "http://p0.qhmsg.com/t016ef94425a00bd05a.png"
+            },
+            "mer_name": ""
+        },
+        {
+            "product_id": "22617",
+            "model_name": "iPhone 6s",
+            "brand_id": "2",
+            "brand_name": "苹果",
+            "price": 2199,
+            "model_id": "97",
+            "mer_id": "8",
+            "thum_img": {
+                "old": "http://p0.qhmsg.com/t01042f0e1ad3db884a.png",
+                "big": "http://p0.qhmsg.com/t01f5575883be765e32.png",
+                "mid": "http://p0.qhmsg.com/t01ca68a181942f676d.png",
+                "min": "http://p0.qhmsg.com/t016ef94425a00bd05a.png"
+            },
+            "mer_name": ""
+        },
+        {
+            "product_id": "22573",
+            "model_name": "A7100",
+            "brand_id": "1",
+            "brand_name": "三星",
+            "price": 1299,
+            "model_id": "481",
+            "mer_id": "8",
+            "thum_img": {
+                "old": "http://p0.qhmsg.com/t0148850d697b2ae51d.jpg",
+                "big": "http://p0.qhmsg.com/t0176acbc687fffd797.jpg",
+                "mid": "http://p0.qhmsg.com/t01133fef81ad8fb4fa.jpg",
+                "min": "http://p0.qhmsg.com/t014d0a6fa9e7a1a827.jpg"
+            },
+            "mer_name": ""
+        },
+        {
+            "product_id": "22583",
+            "model_name": "nubia Z9 mini",
+            "brand_id": "13",
+            "brand_name": "努比亚",
+            "price": 799,
+            "model_id": "165",
+            "mer_id": "8",
+            "thum_img": {
+                "old": "http://p0.qhmsg.com/t0183766a3c00b9b8f9.jpg",
+                "big": "http://p0.qhmsg.com/t01d9893aa62c6b8ea2.jpg",
+                "mid": "http://p0.qhmsg.com/t01606362a515c36334.jpg",
+                "min": "http://p0.qhmsg.com/t017b9ac78948b6d84a.jpg"
+            },
+            "mer_name": ""
+        }
+    ]
+}
